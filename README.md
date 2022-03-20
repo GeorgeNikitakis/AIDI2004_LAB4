@@ -2,6 +2,7 @@
 Fish Classification using Random Forest  
 ## Description  
 This ML model uses a Random Forest Classifier to predict the type of Fish based on inputs: Weight, Length1(vertical), Length2(diagonal), Length3(cross), Height, and Width. The Fish Market dataset from Kaggle was used to train and test the model. (All measurements are recorded in cm).  
+The possible fish types are: Bream, Roach, Whitefish, Parkki, Perch, Pike, and Smelt  
 ## How to install  
 To install make sure that all the packages listed in the "requirements.txt" file have been installed and are of the specified versions or higher.  
 ## How to use  
