@@ -8,7 +8,7 @@ To install make sure that all the packages listed in the "requirements.txt" file
 To run this model in your local machine make sure all files are located in the same folder and then run the "FlaskApp.py" file. Copy and paste ('crtl/cmd' + 'click') the local host URL into your web browser.  
 To predict fish type, you must enter the fish measurements(cm) into all fields. Then click on the "predict" button bellow to get prediction.  
 ## Credits  
-Prof. Noopa Jagadeesh - FlaskApp.py, index.html, style.css, requirements.txt, and Procfile (as well as knowledge support)
+Prof. Noopa Jagadeesh - FlaskApp.py, index.html, style.css, requirements.txt, and Procfile (as well as knowledge support)  
 Kaggle.com - Fish market dataset
 ## Liscence  
 None
